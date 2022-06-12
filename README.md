@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hellomarina
-- 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning HTML & CSS.
 - 📫 How to reach me: hello.marinaleon@gmail.com
 
