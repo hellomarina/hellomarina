@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellomarina
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning CSS & JavaScript.
 - 📫 How to reach me: hello.marinaleon@gmail.com
 
 <!---
